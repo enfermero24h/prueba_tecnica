@@ -1,5 +1,9 @@
 #  proyecto : 
 
+para correr el proyecto se debe ejecutar el siguiente comando:
+
+npm run dev
+
 **Pregunta 4:** Crea un servidor Node.js simple que escuche en el puerto 3000 y 
 responda a las
 solicitudes GET con un mensaje de &quot;Hola, mundo&quot; en formato JSON.
